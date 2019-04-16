@@ -1,6 +1,5 @@
-# Machine-Learning
+# L2 Regularized Linear Regression(Numpy)
 Machine Learning Model example
-L2 Regularized Linear Regression(Numpy)
 
 Prerequisites
 install packages pandas,numpy,and matplotlib.pyplot
